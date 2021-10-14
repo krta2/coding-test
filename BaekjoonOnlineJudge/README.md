@@ -1,3 +1,6 @@
-# [백준 온라인 저지](https://www.acmicpc.net/) 문제 풀이
+# [Baekjoon Online Judge](https://www.acmicpc.net/) 문제 풀이
 
-문제들의 출처(대회 등)나 알고리즘 별로 분류했습니다.
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=krta2)](https://solved.ac/krta2)
+
+가능한 알고리즘별로 분류했습니다.
